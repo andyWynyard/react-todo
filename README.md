@@ -1,10 +1,8 @@
 # react-todo
 
-## Simple react application to make a grocery list.
+## Simple react application to make a grocery list. Has the CR*D (no update) functions.
 
-## Has the CR*D (no update) functions.
-
-## To recreate:
+### To recreate:
 1. Clone
 2. run: npm install
 3. Should have installed all that is necessary
