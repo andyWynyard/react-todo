@@ -11,4 +11,6 @@
 4. run: npm start
 5. Playtime
 
+NOTE: All of the node_modules are here, so the npm install might not be needed. The program is only 14MiB, so all good.
+
 Shouldn't be any issues, have a play.
